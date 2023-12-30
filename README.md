@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java, python, WebDev, GameDev, MobileDev**
+- 🌱 I’m currently learning **Java, Python, WebDev, GameDev, MobileDev**
 
 - 📫 How to reach me **muhammadnurdaffa09@gmail.com.com**
 
