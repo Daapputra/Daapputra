@@ -2,6 +2,10 @@
 <h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🤖+Artificial+Intelligence;⛓️+Blockchain+Technology;💻+Software+Development;🚀+Future+AI+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
   Passionate about building intelligent systems, exploring blockchain technology, and developing impactful software solutions.
 </p>
 
