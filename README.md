@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-91d4-4f75-9c4e-3d4c5d7eb2c7.gif" width="700">
 </p>
 
 <p align="center">
