@@ -69,16 +69,6 @@ Collection of smart contract and Web3 development projects.
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 💡 Motto
 
 > "Build. Learn. Improve. Repeat."
@@ -87,9 +77,9 @@ Collection of smart contract and Web3 development projects.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: your-linkedin
-- 🌐 Portfolio: your-portfolio
+- 📧 Email: daffanaufal0606@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/
+muhammad-nur-daffa-naufal-putra-6867762a6
 
 ---
 
