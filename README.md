@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🤖+Artificial+Intelligence;⛓️+Blockchain+Technology;💻+Software+Development;🚀+Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJpYWV4Mjl0NDRtZXJxM2R3dDR2Mzh0OHk4b2t6eXFnMWN4c3p4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
 </p>
 
 <p align="center">
