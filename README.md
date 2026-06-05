@@ -85,15 +85,9 @@ Building scalable, efficient, and user-friendly applications while continuously 
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:daffanaufal0606@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📧 Email: **daffanaufal0606@gmail.com**
 
-<a href="https://www.linkedin.com/in/muhammad-nur-daffa-naufal-putra-6867762a6/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+💼 LinkedIn: [Muhammad Nur Daffa](https://www.linkedin.com/in/muhammad-nur-daffa-naufal-putra-6867762a6/)
 
 ---
 
