@@ -2,7 +2,11 @@
 <h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-91d4-4f75-9c4e-3d4c5d7eb2c7.gif" width="700">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Blockchain+Learner;Software+Developer;Building+Impactful+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=AI%20%7C%20Blockchain%20%7C%20Development&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -60,16 +64,16 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Interests & Projects
 
-### 🏥 HealPoint
-AI-powered healthcare platform designed to improve healthcare accessibility and patient experience.
+### 🤖 Artificial Intelligence
+Developing machine learning and deep learning solutions to solve real-world problems through intelligent systems and data-driven approaches.
 
-### 🧠 Disease Prediction System
-Machine learning model for predicting health conditions using medical datasets.
+### ⛓️ Blockchain Technology
+Exploring decentralized applications, smart contracts, and blockchain architectures to understand the future of digital innovation.
 
-### ⛓️ Blockchain Experiments
-Collection of smart contract and Web3 development projects.
+### 💻 Software Development
+Building scalable, efficient, and user-friendly applications while continuously improving software engineering skills and best practices.
 
 ---
 
