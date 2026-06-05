@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daffa Naufal</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Nur Daffa</h1>
 <h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
 
 <p align="center">
