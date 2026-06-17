@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Daffa</h1>
-<h3 align="center">Informatics Student | AI Enthusiast | Blockchain Learner | Software Developer</h3>
+<h3 align="center">Informatics Student | AI Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Blockchain+Learner;Software+Developer;Building+Impactful+Solutions" />
