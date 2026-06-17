@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=AI%20%7C%20%7C%20Development&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=AI%20%7C%20Development&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
